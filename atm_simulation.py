@@ -108,5 +108,5 @@ while True:
         print('Thank you for banking with us!')
         break
     else:
-        print('Thank you for banking with us!')
+        print('Thank you for banking with u')
         break
